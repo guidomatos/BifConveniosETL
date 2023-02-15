@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="89"
-  DTS:VersionGUID="{F50198B7-F3F7-4072-96E2-9856321D870C}">
+  DTS:VersionBuild="104"
+  DTS:VersionGUID="{D34EB4A4-595C-495A-B143-BCFC5B03E171}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeNFDqGhl10CLwhkYqcGCjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABbWVPYSbuOUQEA0BJfki3Lid3Y9JRP8kguQ/DRQ5bLJgAAAAAOgAAAAAIAACAAAAA84CqhRkiBJgKwYxLTHutAjg/XP1Nrece45MOdLSu3/iAAAABE68mf6VA7dZZlEYcaZmDrcsNzeWZ6eSAhR1ZHgOByI0AAAABbhXdyh+b2d/D2dTlQPRwyhG/kCcu65dqtBetjQJG+GGv+CInRplo2uqcdmtSID+COFZ14WNcn/2RHvxYf2grv</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeNFDqGhl10CLwhkYqcGCjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADcT+jZ6heXxifGN5godKAoje2H6TCRh5uYWR/9V8I5ugAAAAAOgAAAAAIAACAAAABq1t8NUu7GGvb0+hho1L+owbPM27MnsL3REY+n/RK6LSAAAADpBo1NRJmgxAm70Z7yqMnOg8HQGUpNH77qyAVQ6gdAIEAAAAD0SyShT4CQfeNaBBT3HD2N804ZwCcmrg0zgsKYG6Ox3XkU55+Y8Oz+52f9qp36Atwrcm5KTTdMw52dU7d9DmIl</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeNFDqGhl10CLwhkYqcGCjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACVazuhgwj3FYe96pQYrtAa2ezezZi14MOjGWEUcq5WhAAAAAAOgAAAAAIAACAAAACoGKfBLm7P1nRINFDXilk0mCRmyf4664kD7dGxLcBOKBAAAADqFYR4w62w3qAAiA1bm4PfQAAAAAbGs3PnHxBx6KS+mF2h9wki+BAIyuaCoqF9xGqizUfiFpnSW07SuP1dVHa34rd/85nbCNwKhpwaMEtQYGsgB4Q</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeNFDqGhl10CLwhkYqcGCjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACNeKN14rt23sr0A6nZ7ZMaXuzgHjUmX60bhZ4NFb+5/wAAAAAOgAAAAAIAACAAAADoaW1JnaeVoAj0Acoed8iwG2voWalKMCob2WXHnHmfyhAAAABshPvB86YwysQfdWr1KYG2QAAAAIsivcLnp11OjtdvFdR/ucJHvwm+YMeVzOn3xFpWhkwcGh2xNFrGLutJdSoHA4FiPKsIP7/cbH4xuEYECLjCFhg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -637,7 +637,7 @@ namespace ST_f1c62f69ba5a4520afcd4a531518949d
     <msb:CodeName>ST_f1c62f69ba5a4520afcd4a531518949d</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>ST_f1c62f69ba5a4520afcd4a531518949d</msb:DisplayName>
-    <msb:ProjectId>{888125AE-8772-460D-A69E-0276D6A2654E}</msb:ProjectId>
+    <msb:ProjectId>{A77B545E-FA2D-40FD-BCA1-C9D6E9451F31}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_f1c62f69ba5a4520afcd4a531518949d.csproj" />
@@ -759,7 +759,7 @@ namespace ST_f1c62f69ba5a4520afcd4a531518949d.Properties {
           <BinaryItem
             Name="ST_f1c62f69ba5a4520afcd4a531518949d.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAIsi22MAAAAAAAAAAOAAIiALATAAAA4AAAAIAAAAAAAAdiwA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAB/A22MAAAAAAAAAAOAAIiALATAAAA4AAAAIAAAAAAAAdiwA
 AAAgAAAAQAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACAAAAAAgAAAAAAAAMAYIUAABAA
 ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAACQsAABPAAAAAEAAAHgEAAAAAAAAAAAAAAAAAAAA
 AAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -785,7 +785,7 @@ WQDBAxAAYQDBAxAAaQDBAwYAgQDBAwYAqQDBAxUAuQDBAwYAcQCkBBsAwQDNBAEAcQDBAwYAiQDB
 AwYAyQBhACAAyQDcBCcAkQDBAywAsQDBAwYACAAUAEUACAAYAEoAKQBzALIALgALAIoALgATAJMA
 LgAbALIALgAjALsALgArAOQALgAzAOQALgA7AOQALgBDALsALgBLAOoALgBTAOQALgBbAAEBQwBj
 AEoASQBzALIAYQB7AEoAYwBrAEoAAwABAAQAAwAAALEDewAAAKAAgAAAAMUEhQACAAQAAwACAAUA
-BQABAAYABQACAAcABwAEgAAAAQAAAPAgXZgAAAAAAAAbAAAABAAAAAAAAAAAAAAAMwASAAAAAAAP
+BQABAAYABQACAAcABwAEgAAAAQAAAPEgZz4AAAAAAAAbAAAABAAAAAAAAAAAAAAAMwASAAAAAAAP
 AAAAAAAAAAAAAAA8AKoCAAAAAAQAAAAAAAAAAAAAADMAQgMAAAAAAAAAAAEAAAASBAAABQACAAAA
 AAAAPE1vZHVsZT4AdmFsdWVfXwBtc2NvcmxpYgBTVF9mMWM2MmY2OWJhNWE0NTIwYWZjZDRhNTMx
 NTE4OTQ5ZABkZWZhdWx0SW5zdGFuY2UAUnVudGltZVR5cGVIYW5kbGUAR2V0VHlwZUZyb21IYW5k
@@ -811,7 +811,7 @@ YTQ1MjBhZmNkNGE1MzE1MTg5NDlkLlByb3BlcnRpZXMAU2V0dGluZ3MAU3VjY2VzcwBnZXRfRHRz
 AFNjcmlwdFJlc3VsdHMAT2JqZWN0AGdldF9EZWZhdWx0AHNldF9UYXNrUmVzdWx0AGdldF9Bc3Nl
 bWJseQAAAAAAcVMAVABfAGYAMQBjADYAMgBmADYAOQBiAGEANQBhADQANQAyADAAYQBmAGMAZAA0
 AGEANQAzADEANQAxADgAOQA0ADkAZAAuAFAAcgBvAHAAZQByAHQAaQBlAHMALgBSAGUAcwBvAHUA
-cgBjAGUAcwAAAIkWJQldAX9GrJpQDtbLUeYABCABAQgDIAABBSABARERBCABAQ4FIAEBEVEEIAAS
+cgBjAGUAcwAAAKZxR04NU+9BtDfjROkMdwsABCABAQgDIAABBSABARERBCABAQ4FIAEBEVEEIAAS
 YQYAARJlEWkEIAASbQYgAgEOEm0It3pcVhk04IkIiYRdzYCAzJEEAAAAAAQBAAAAAwYSSQMGEk0D
 BhIQAgYIAwYRFAQAABJJBAAAEk0FAAEBEk0EAAASEAMAAAEECAASSQQIABJNBAgAEhAIAQAIAAAA
 AAAeAQABAFQCFldyYXBOb25FeGNlcHRpb25UaHJvd3MBCAEAAgAAAAAAKAEAI1NUX2YxYzYyZjY5
@@ -831,14 +831,14 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAQAQAAAAGAAAgAAAAAAAAAAAAAAAAAAAAQABAAAAMAAAgAAAAAAAAAAAAAAAAAAAAQAA
 AAAASAAAAFhAAAAaBAAAAAAAAAAAAAAaBDQAAABWAFMAXwBWAEUAUgBTAEkATwBOAF8ASQBOAEYA
-TwAAAAAAvQTv/gAAAQAAAAEAXZjwIAAAAQBdmPAgPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAA
+TwAAAAAAvQTv/gAAAQAAAAEAZz7xIAAAAQBnPvEgPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAA
 AEQAAAABAFYAYQByAEYAaQBsAGUASQBuAGYAbwAAAAAAJAAEAAAAVAByAGEAbgBzAGwAYQB0AGkA
 bwBuAAAAAAAAALAEegMAAAEAUwB0AHIAaQBuAGcARgBpAGwAZQBJAG4AZgBvAAAAVgMAAAEAMAAw
 ADAAMAAwADQAYgAwAAAAGgABAAEAQwBvAG0AbQBlAG4AdABzAAAAAAAAACIAAQABAEMAbwBtAHAA
 YQBuAHkATgBhAG0AZQAAAAAAAAAAAHAAJAABAEYAaQBsAGUARABlAHMAYwByAGkAcAB0AGkAbwBu
 AAAAAABTAFQAXwBmADEAYwA2ADIAZgA2ADkAYgBhADUAYQA0ADUAMgAwAGEAZgBjAGQANABhADUA
 MwAxADUAMQA4ADkANAA5AGQAAAA+AA8AAQBGAGkAbABlAFYAZQByAHMAaQBvAG4AAAAAADEALgAw
-AC4AOAA0ADMAMgAuADMAOQAwADAANQAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUA
+AC4AOAA0ADMAMwAuADEANQA5ADcANQAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUA
 AABTAFQAXwBmADEAYwA2ADIAZgA2ADkAYgBhADUAYQA0ADUAMgAwAGEAZgBjAGQANABhADUAMwAx
 ADUAMQA4ADkANAA5AGQALgBkAGwAbAAAAEgAEgABAEwAZQBnAGEAbABDAG8AcAB5AHIAaQBnAGgA
 dAAAAEMAbwBwAHkAcgBpAGcAaAB0ACAAQAAgACAAMgAwADIAMwAAACoAAQABAEwAZQBnAGEAbABU
@@ -847,8 +847,8 @@ bgBhAG0AZQAAAFMAVABfAGYAMQBjADYAMgBmADYAOQBiAGEANQBhADQANQAyADAAYQBmAGMAZAA0
 AGEANQAzADEANQAxADgAOQA0ADkAZAAuAGQAbABsAAAAaAAkAAEAUAByAG8AZAB1AGMAdABOAGEA
 bQBlAAAAAABTAFQAXwBmADEAYwA2ADIAZgA2ADkAYgBhADUAYQA0ADUAMgAwAGEAZgBjAGQANABh
 ADUAMwAxADUAMQA4ADkANAA5AGQAAABCAA8AAQBQAHIAbwBkAHUAYwB0AFYAZQByAHMAaQBvAG4A
-AAAxAC4AMAAuADgANAAzADIALgAzADkAMAAwADUAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAg
-AFYAZQByAHMAaQBvAG4AAAAxAC4AMAAuADgANAAzADIALgAzADkAMAAwADUAAAAAAAAAAAAAAAAA
+AAAxAC4AMAAuADgANAAzADMALgAxADUAOQA3ADUAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAg
+AFYAZQByAHMAaQBvAG4AAAAxAC4AMAAuADgANAAzADMALgAxADUAOQA3ADUAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1417,6 +1417,44 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           ReadOnlyVariables="CredencialIBS,ServidorIBS,CredencialConvenios,ConnectionStringPla,ConnectionStringConveniosPla,DefaultIBS"
           ReadWriteVariables="ConnectionString,ConnectionStringConvenios,Consulta_DLEMP,Consulta_DLCRE,Consulta_DLCEC,Consulta_DLCON,Consulta_DLCNT,Consulta_DLCCR,Consulta_DEALS,Consulta_DLPMT,Consulta_LOGCNV,Consulta_DLCND,Consulta_PLPDWH">
           <ProjectItem
+            Name="My Project\AssemblyInfo.vb"
+            Encoding="UTF8"><![CDATA[Imports System
+Imports System.Reflection
+Imports System.Runtime.InteropServices
+
+' General Information about an assembly is controlled through the following 
+' set of attributes. Change these attribute values to modify the information
+' associated with an assembly.
+
+' Review the values of the assembly attributes
+
+<Assembly: AssemblyTitle("ST_aa1db8639c3c4ab5aafd0da89fc1ff0c")> 
+<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyProduct("ST_aa1db8639c3c4ab5aafd0da89fc1ff0c")> 
+<Assembly: AssemblyCopyright("Copyright @  2023")> 
+<Assembly: AssemblyTrademark("")> 
+<Assembly: CLSCompliant(True)> 
+
+<Assembly: ComVisible(False)> 
+
+'The following GUID is for the ID of the typelib if this project is exposed to COM
+<Assembly: Guid("8175b468-0633-493c-a284-f6fac3bd094e")> 
+
+' Version information for an assembly consists of the following four values:
+'
+'      Major Version
+'      Minor Version 
+'      Build Number
+'      Revision
+'
+' You can specify all the values or you can default the Build and Revision Numbers 
+' by using the '*' as shown below:
+' <Assembly: AssemblyVersion("1.0.*")>
+
+<Assembly: AssemblyVersion("1.0.0.0")> 
+<Assembly: AssemblyFileVersion("1.0.0.0")> ]]></ProjectItem>
+          <ProjectItem
             Name="ScriptMain.vb"
             Encoding="UTF8"><![CDATA[#Region "Help:  Introduction to the script task"
 'The Script Task allows you to perform virtually any operation that can be accomplished in
@@ -1682,43 +1720,14 @@ End Class]]></ProjectItem>
   </ProjectExtensions>
 </Project>]]></ProjectItem>
           <ProjectItem
-            Name="My Project\AssemblyInfo.vb"
-            Encoding="UTF8"><![CDATA[Imports System
-Imports System.Reflection
-Imports System.Runtime.InteropServices
-
-' General Information about an assembly is controlled through the following 
-' set of attributes. Change these attribute values to modify the information
-' associated with an assembly.
-
-' Review the values of the assembly attributes
-
-<Assembly: AssemblyTitle("ST_aa1db8639c3c4ab5aafd0da89fc1ff0c")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("ST_aa1db8639c3c4ab5aafd0da89fc1ff0c")> 
-<Assembly: AssemblyCopyright("Copyright @  2023")> 
-<Assembly: AssemblyTrademark("")> 
-<Assembly: CLSCompliant(True)> 
-
-<Assembly: ComVisible(False)> 
-
-'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("8175b468-0633-493c-a284-f6fac3bd094e")> 
-
-' Version information for an assembly consists of the following four values:
-'
-'      Major Version
-'      Minor Version 
-'      Build Number
-'      Revision
-'
-' You can specify all the values or you can default the Build and Revision Numbers 
-' by using the '*' as shown below:
-' <Assembly: AssemblyVersion("1.0.*")>
-
-<Assembly: AssemblyVersion("1.0.0.0")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> ]]></ProjectItem>
+            Name="My Project\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)" GeneratedClassNamespace="$safeprojectname" GeneratedClassName="MySettings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="My Project\Settings.Designer.vb"
             Encoding="UTF8"><![CDATA['------------------------------------------------------------------------------
@@ -1760,15 +1769,6 @@ Partial Friend NotInheritable Class MySettings
     End Property
 End Class]]></ProjectItem>
           <ProjectItem
-            Name="My Project\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)" GeneratedClassNamespace="$safeprojectname" GeneratedClassName="MySettings">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
-          <ProjectItem
             Name="Project"
             Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
 <c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
@@ -1776,7 +1776,7 @@ End Class]]></ProjectItem>
     <msb:CodeName>ST_aa1db8639c3c4ab5aafd0da89fc1ff0c</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>ST_aa1db8639c3c4ab5aafd0da89fc1ff0c</msb:DisplayName>
-    <msb:ProjectId>{E04C1682-AE7F-4C9E-88E4-B0FF2259D863}</msb:ProjectId>
+    <msb:ProjectId>{11B0FD50-CAE8-41B2-AE9E-41A405E8D8C0}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_aa1db8639c3c4ab5aafd0da89fc1ff0c.vbproj" />
@@ -1973,7 +1973,7 @@ End Namespace]]></ProjectItem>
           <BinaryItem
             Name="ST_aa1db8639c3c4ab5aafd0da89fc1ff0c.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAI0i22MAAAAAAAAAAOAAIiALAVAAACIAAAAIAAAAAAAA6kEA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDACLA22MAAAAAAAAAAOAAIiALAVAAACIAAAAIAAAAAAAA6kEA
 AAAgAAAAYAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACgAAAAAgAAAAAAAAMAYIUAABAA
 ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAJhBAABPAAAAAGAAAEgEAAAAAAAAAAAAAAAAAAAA
 AAAAAIAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -2111,7 +2111,7 @@ dABhAF8ARABMAEMATwBOAAAdQwBvAG4AcwB1AGwAdABhAF8ARABMAEMATgBUAAAdQwBvAG4AcwB1
 AGwAdABhAF8ARABMAEMAQwBSAAAdQwBvAG4AcwB1AGwAdABhAF8ARABFAEEATABTAAAdQwBvAG4A
 cwB1AGwAdABhAF8ARABMAFAATQBUAAAfQwBvAG4AcwB1AGwAdABhAF8ATABPAEcAQwBOAFYAAB1D
 AG8AbgBzAHUAbAB0AGEAXwBEAEwAQwBOAEQAAB9DAG8AbgBzAHUAbAB0AGEAXwBQAEwAUABEAFcA
-SAAAAD6mi1nvrLdEk6FAxEVZ86sABCABAQgDIAABBSABARERBCABAQ4EIAEBAgUgAgEODgUgAQER
+SAAAABoXMriI9idPuNJD4rD4DSYABCABAQgDIAABBSABARERBCABAQ4EIAEBAgUgAgEODgUgAQER
 RQcgBAEODg4OBhUSJAESDAYVEiQBEggGFRIkARJlBhUSJAESIAQgABMABwABEm0RgJ0FIAASgKEH
 IAIBDhKAoQQAARwcBAABARwZBxEODg4ODg4ODg4ODg4ODhKAlRKAlRKAlQUgABKArQUgABKAsQYg
 ARKAtRwDIAAcBAABDhwCBg4DIAAOBgADCA4OAgYgAR0OHQMGAAEBEoCVAwAAAQUgAg4ODgQgAQEc
@@ -2628,7 +2628,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">3</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -2644,7 +2644,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                 <property
                   dataType="System.Int32"
                   description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  name="FastLoadMaxInsertCommitSize">0</property>
               </properties>
               <connections>
                 <connection
@@ -4241,7 +4241,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">3</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -4257,7 +4257,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                 <property
                   dataType="System.Int32"
                   description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  name="FastLoadMaxInsertCommitSize">0</property>
               </properties>
               <connections>
                 <connection
@@ -4811,7 +4811,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">3</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -4827,7 +4827,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                 <property
                   dataType="System.Int32"
                   description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  name="FastLoadMaxInsertCommitSize">0</property>
               </properties>
               <connections>
                 <connection
@@ -8281,7 +8281,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">3</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -8293,7 +8293,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                 <property
                   dataType="System.String"
                   description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                  name="FastLoadOptions"></property>
                 <property
                   dataType="System.Int32"
                   description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
@@ -11624,7 +11624,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">3</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -11640,7 +11640,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
                 <property
                   dataType="System.Int32"
                   description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  name="FastLoadMaxInsertCommitSize">0</property>
               </properties>
               <connections>
                 <connection
@@ -13752,7 +13752,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
       DTS:refId="Package\Obtener Flag Fin Actualizacion IBS"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{A38A735D-AB7F-4B68-A2A7-4ABC4FE3CC9D}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -13988,7 +13987,7 @@ End Class]]></ProjectItem>
     <msb:CodeName>ST_dc664282ebad4a6b89edd81f5cb8a8a6</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>ST_dc664282ebad4a6b89edd81f5cb8a8a6</msb:DisplayName>
-    <msb:ProjectId>{90136C7B-288A-46F2-81B2-FB0626EB7C7A}</msb:ProjectId>
+    <msb:ProjectId>{B502E991-B0C9-457B-BFE8-5C63C1DB1788}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_dc664282ebad4a6b89edd81f5cb8a8a6.vbproj" />
@@ -14285,7 +14284,7 @@ End Namespace]]></ProjectItem>
           <BinaryItem
             Name="ST_dc664282ebad4a6b89edd81f5cb8a8a6.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAJAi22MAAAAAAAAAAOAAIiALAVAAABgAAAAIAAAAAAAALjcA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDACTA22MAAAAAAAAAAOAAIiALAVAAABgAAAAIAAAAAAAALjcA
 AAAgAAAAQAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACAAAAAAgAAAAAAAAMAYIUAABAA
 ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAANw2AABPAAAAAEAAAEgEAAAAAAAAAAAAAAAAAAAA
 AAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -14376,7 +14375,7 @@ cmVzb3VyY2VzAERlYnVnZ2luZ01vZGVzAE15U2V0dGluZ3MARXF1YWxzAFJ1bnRpbWVIZWxwZXJz
 AFN1Y2Nlc3MAZ2V0X0R0cwBTY3JpcHRSZXN1bHRzAG1fU3luY09iamVjdABNeVByb2plY3QARXhp
 dABzZXRfVGFza1Jlc3VsdABtX0NvbnRleHQAU1RfZGM2NjQyODJlYmFkNGE2Yjg5ZWRkODFmNWNi
 OGE4YTYuTXkAZ2V0X0Fzc2VtYmx5AAAAADFNAHkALgBSAGUAcwBvAHUAcgBjAGUAcwAuAE0AeQBS
-AGUAcwBvAHUAcgBjAGUAcwAAAP58MPYv57FEmWWV6CWWlhAABCABAQgDIAABBSABARERBCABAQ4E
+AGUAcwBvAHUAcgBjAGUAcwAAADKcHHHWfLlEk90rPktbx+QABCABAQgDIAABBSABARERBCABAQ4E
 IAEBAgUgAgEODgUgAQERRQcgBAEODg4OBhUSJAESDAYVEiQBEggGFRIkARJlBhUSJAESIAQgABMA
 BwABEm0RgJkFIAASgJ0HIAIBDhKAnQQAARwcBAABARwFIAASgKkEIAECHAMgAAgDIAAOBAcBHgAC
 HgAFEAEAHgAECgEeAAQHARMABhUSJAETAAcGFRJxARMABhUScQETAAITAAQKARMABSABARMACLd6
@@ -14721,7 +14720,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="197,42"
           Id="Package\Actualizacion Pendiente"
-          TopLeft="935.111111111111,38.7777777777777" />
+          TopLeft="941.111111111111,46.7777777777777" />
         <NodeLayout
           Size="191,42"
           Id="Package\CUOTAS NEGATIVAS"
@@ -14729,11 +14728,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="251,42"
           Id="Package\Envia notificacion Fin Actualizacion"
-          TopLeft="556.111111111111,818.777777777778" />
+          TopLeft="553.111111111111,790.777777777778" />
         <NodeLayout
           Size="170,42"
           Id="Package\Inicializa Variables"
-          TopLeft="360.111111111111,42.7777777777777" />
+          TopLeft="337.111111111111,51.7777777777777" />
         <NodeLayout
           Size="148,53"
           Id="Package\Limpiar tablas"
@@ -14753,7 +14752,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="161,42"
           Id="Package\LLENAR DLCNT"
-          TopLeft="661.111111111111,431.777777777778" />
+          TopLeft="668.111111111111,431.777777777778" />
         <NodeLayout
           Size="163,42"
           Id="Package\LLENAR DLCON"
@@ -14761,11 +14760,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="162,42"
           Id="Package\LLENAR DLCRE"
-          TopLeft="1050.11111111111,273.777777777778" />
+          TopLeft="1038.11111111111,262.777777777778" />
         <NodeLayout
           Size="163,42"
           Id="Package\LLENAR DLEMP"
-          TopLeft="557.111111111111,194.777777777778" />
+          TopLeft="702.111111111111,188.777777777778" />
         <NodeLayout
           Size="162,42"
           Id="Package\LLENAR DLPMT"
@@ -14773,7 +14772,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="284,42"
           Id="Package\LLENAR MANTENIMIENTO DE CUOTAS"
-          TopLeft="1077.11111111111,199.777777777778" />
+          TopLeft="1071.11111111111,189.777777777778" />
         <NodeLayout
           Size="172,42"
           Id="Package\LLENAR PLPDWH"
@@ -14781,15 +14780,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="197,42"
           Id="Package\Obtener estado proceso"
-          TopLeft="628.111111111111,36.7777777777777" />
+          TopLeft="629.111111111111,50.7777777777777" />
         <NodeLayout
           Size="250,42"
           Id="Package\Obtener Flag Fin Actualizacion IBS"
-          TopLeft="919.111111111111,142.777777777778" />
+          TopLeft="920.111111111111,127.777777777778" />
         <NodeLayout
           Size="196,42"
           Id="Package\Proceso IBS Terminado"
-          TopLeft="634.111111111111,139.777777777778" />
+          TopLeft="636.111111111111,123.777777777778" />
         <NodeLayout
           Size="320,42"
           Id="Package\Registra hora fin"
@@ -14797,21 +14796,21 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         <NodeLayout
           Size="173,42"
           Id="Package\Registra hora inicio"
-          TopLeft="325.111111111111,146.777777777778" />
+          TopLeft="335.111111111111,123.777777777778" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="530.111111111111,60.7777777777777">
+          TopLeft="507.111111111111,72.2777777777777">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="98,0"
+              EndConnector="122,0"
               Start="0,0"
-              End="90.5,0">
+              End="114.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="90.5,0" />
+                    End="114.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -14822,25 +14821,25 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="825.111111111111,58.7777777777777">
+          TopLeft="826.111111111111,69.7777777777777">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="110,0"
+              EndConnector="115,0"
               Start="0,0"
-              End="102.5,0">
+              End="107.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="102.5,0" />
+                    End="107.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="43.25,5,16,16"
+              BoundingBox="87.4999999999999,1,16,16"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -14850,26 +14849,26 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="359,-12"
+              EndConnector="346.999999999999,-23"
               Start="0,0"
-              End="351.5,-12">
+              End="339.499999999999,-23">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="145.912087912088,0" />
+                    End="140.901098901098,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="145.912087912088,0"
-                    Point2="149.912087912088,0"
-                    Point3="149.912087912088,-4" />
+                    Point1="140.901098901098,0"
+                    Point2="144.901098901098,0"
+                    Point3="144.901098901098,-4" />
                   <mssgle:LineSegment
-                    End="149.912087912088,-8" />
+                    End="144.901098901098,-19" />
                   <mssgle:CubicBezierSegment
-                    Point1="149.912087912088,-8"
-                    Point2="149.912087912088,-12"
-                    Point3="153.912087912088,-12" />
+                    Point1="144.901098901098,-19"
+                    Point2="144.901098901098,-23"
+                    Point3="148.901098901098,-23" />
                   <mssgle:LineSegment
-                    End="351.5,-12" />
+                    End="339.499999999999,-23" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -14918,9 +14917,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="94.5,91"
+              EndConnector="101.5,91"
               Start="0,0"
-              End="94.5,83.5">
+              End="101.5,83.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -14931,13 +14930,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
                     Point2="0,33.9322033898305"
                     Point3="4,33.9322033898305" />
                   <mssgle:LineSegment
-                    End="90.5,33.9322033898305" />
+                    End="97.5,33.9322033898305" />
                   <mssgle:CubicBezierSegment
-                    Point1="90.5,33.9322033898305"
-                    Point2="94.5,33.9322033898305"
-                    Point3="94.5,37.9322033898305" />
+                    Point1="97.5,33.9322033898305"
+                    Point2="101.5,33.9322033898305"
+                    Point3="101.5,37.9322033898305" />
                   <mssgle:LineSegment
-                    End="94.5,83.5" />
+                    End="101.5,83.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -14959,17 +14958,17 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,28.3265306122449" />
+                    End="0,20.3265306122449" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,28.3265306122449"
-                    Point2="0,32.3265306122449"
-                    Point3="4,32.3265306122449" />
+                    Point1="0,20.3265306122449"
+                    Point2="0,24.3265306122449"
+                    Point3="4,24.3265306122449" />
                   <mssgle:LineSegment
-                    End="248.5,32.3265306122449" />
+                    End="248.5,24.3265306122449" />
                   <mssgle:CubicBezierSegment
-                    Point1="248.5,32.3265306122449"
-                    Point2="252.5,32.3265306122449"
-                    Point3="252.5,36.3265306122449" />
+                    Point1="248.5,24.3265306122449"
+                    Point2="252.5,24.3265306122449"
+                    Point3="252.5,28.3265306122449" />
                   <mssgle:LineSegment
                     End="252.5,124.5" />
                 </mssgle:SegmentCollection>
@@ -15140,30 +15139,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 19]"
-          TopLeft="1131.11111111111,315.777777777778">
+          TopLeft="1119.11111111111,304.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-349.727272727273,405"
+              EndConnector="-337.727272727272,416"
               Start="0,0"
-              End="-349.727272727273,397.5">
+              End="-337.727272727272,408.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,289.574958813839" />
+                    End="0,297.548599670511" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,289.574958813839"
-                    Point2="0,293.574958813839"
-                    Point3="-4,293.574958813839" />
+                    Point1="0,297.548599670511"
+                    Point2="0,301.548599670511"
+                    Point3="-4,301.548599670511" />
                   <mssgle:LineSegment
-                    End="-345.727272727273,293.574958813839" />
+                    End="-333.727272727272,301.548599670511" />
                   <mssgle:CubicBezierSegment
-                    Point1="-345.727272727273,293.574958813839"
-                    Point2="-349.727272727273,293.574958813839"
-                    Point3="-349.727272727273,297.574958813839" />
+                    Point1="-333.727272727272,301.548599670511"
+                    Point2="-337.727272727272,301.548599670511"
+                    Point3="-337.727272727272,305.548599670511" />
                   <mssgle:LineSegment
-                    End="-349.727272727273,397.5" />
+                    End="-337.727272727272,408.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15174,30 +15173,18 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="1033.61111111111,80.7777777777777">
+          TopLeft="1042.36111111111,88.7777777777777">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="10.5,62"
+              EndConnector="0,39.0000000000003"
               Start="0,0"
-              End="10.5,54.5">
+              End="0,31.5000000000003">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,27" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,27"
-                    Point2="0,31"
-                    Point3="4,31" />
-                  <mssgle:LineSegment
-                    End="6.5,31" />
-                  <mssgle:CubicBezierSegment
-                    Point1="6.5,31"
-                    Point2="10.5,31"
-                    Point3="10.5,35" />
-                  <mssgle:LineSegment
-                    End="10.5,54.5" />
+                    End="0,31.5000000000003" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15276,13 +15263,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 22]"
-          TopLeft="741.611111111111,473.777777777778">
+          TopLeft="748.611111111111,473.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-45.3181818181818,247"
+              EndConnector="-52.3181818181819,247"
               Start="0,0"
-              End="-45.3181818181818,239.5">
+              End="-52.3181818181819,239.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -15293,13 +15280,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
                     Point2="0,129.22711058264"
                     Point3="-4,129.22711058264" />
                   <mssgle:LineSegment
-                    End="-41.3181818181818,129.22711058264" />
+                    End="-48.3181818181819,129.22711058264" />
                   <mssgle:CubicBezierSegment
-                    Point1="-41.3181818181818,129.22711058264"
-                    Point2="-45.3181818181818,129.22711058264"
-                    Point3="-45.3181818181818,133.22711058264" />
+                    Point1="-48.3181818181819,129.22711058264"
+                    Point2="-52.3181818181819,129.22711058264"
+                    Point3="-52.3181818181819,133.22711058264" />
                   <mssgle:LineSegment
-                    End="-45.3181818181818,239.5" />
+                    End="-52.3181818181819,239.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15480,42 +15467,42 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="919.111111111111,162.277777777778">
+          TopLeft="920.111111111111,146.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-89,0"
+              EndConnector="-87.9999999999999,0"
               Start="0,0"
-              End="-81.5,0">
+              End="-80.4999999999999,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="-81.5,0" />
+                    End="-80.4999999999999,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.75,5,16,16"
+              BoundingBox="-48.2499999999999,5,16,16"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="634.111111111111,164.277777777778">
+          TopLeft="636.111111111111,144.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-136,0"
+              EndConnector="-128,0"
               Start="0,0"
-              End="-128.5,0">
+              End="-120.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="-128.5,0" />
+                    End="-120.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15526,30 +15513,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="411.611111111111,188.777777777778">
+          TopLeft="421.611111111111,165.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="182.166666666667,99"
+              EndConnector="172.166666666667,122"
               Start="0,0"
-              End="182.166666666667,91.5">
+              End="172.166666666667,114.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,54.764705882353" />
+                    End="0,68.4171122994653" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,54.764705882353"
-                    Point2="0,58.764705882353"
-                    Point3="4,58.764705882353" />
+                    Point1="0,68.4171122994653"
+                    Point2="0,72.4171122994653"
+                    Point3="4,72.4171122994653" />
                   <mssgle:LineSegment
-                    End="178.166666666667,58.764705882353" />
+                    End="168.166666666667,72.4171122994653" />
                   <mssgle:CubicBezierSegment
-                    Point1="178.166666666667,58.764705882353"
-                    Point2="182.166666666667,58.764705882353"
-                    Point3="182.166666666667,62.764705882353" />
+                    Point1="168.166666666667,72.4171122994653"
+                    Point2="172.166666666667,72.4171122994653"
+                    Point3="172.166666666667,76.4171122994653" />
                   <mssgle:LineSegment
-                    End="182.166666666667,91.5" />
+                    End="172.166666666667,114.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15560,18 +15547,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
-          TopLeft="639.527777777778,287.777777777778">
+          TopLeft="640.444444444444,287.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,-51"
+              EndConnector="143.166666666667,-57"
               Start="0,0"
-              End="0,-43.5">
+              End="143.166666666667,-49.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-43.5" />
+                    End="0,-19.1657754010695" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,-19.1657754010695"
+                    Point2="0,-23.1657754010695"
+                    Point3="4,-23.1657754010695" />
+                  <mssgle:LineSegment
+                    End="139.166666666667,-23.1657754010695" />
+                  <mssgle:CubicBezierSegment
+                    Point1="139.166666666667,-23.1657754010695"
+                    Point2="143.166666666667,-23.1657754010695"
+                    Point3="143.166666666667,-27.1657754010695" />
+                  <mssgle:LineSegment
+                    End="143.166666666667,-49.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15582,18 +15581,18 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
-          TopLeft="720.111111111111,218.277777777778">
+          TopLeft="865.111111111111,210.277777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="357,0"
+              EndConnector="205.999999999999,0"
               Start="0,0"
-              End="349.5,0">
+              End="198.499999999999,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="349.5,0" />
+                    End="198.499999999999,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15604,30 +15603,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 8]"
-          TopLeft="1219.11111111111,241.777777777778">
+          TopLeft="1213.11111111111,231.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-409.363636363636,479"
+              EndConnector="-403.363636363635,489"
               Start="0,0"
-              End="-409.363636363636,471.5">
+              End="-403.363636363635,481.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,394.412098298677" />
+                    End="0,402.729678638941" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,394.412098298677"
-                    Point2="0,398.412098298677"
-                    Point3="-4,398.412098298677" />
+                    Point1="0,402.729678638941"
+                    Point2="0,406.729678638941"
+                    Point3="-4,406.729678638941" />
                   <mssgle:LineSegment
-                    End="-405.363636363636,398.412098298677" />
+                    End="-399.363636363635,406.729678638941" />
                   <mssgle:CubicBezierSegment
-                    Point1="-405.363636363636,398.412098298677"
-                    Point2="-409.363636363636,398.412098298677"
-                    Point3="-409.363636363636,402.412098298677" />
+                    Point1="-399.363636363635,406.729678638941"
+                    Point2="-403.363636363635,406.729678638941"
+                    Point3="-403.363636363635,410.729678638941" />
                   <mssgle:LineSegment
-                    End="-409.363636363636,471.5" />
+                    End="-403.363636363635,481.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15638,18 +15637,18 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 9]"
-          TopLeft="681.861111111111,762.777777777778">
+          TopLeft="680.361111111111,762.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,56"
+              EndConnector="0,28"
               Start="0,0"
-              End="0,48.5">
+              End="0,20.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,48.5" />
+                    End="0,20.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -15669,7 +15668,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\CUOTAS NEGATIVAS">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="177,42"
           Id="Package\CUOTAS NEGATIVAS\OLE DB Destination"
@@ -15701,7 +15700,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15723,7 +15724,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -15754,7 +15757,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLCCR">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="157,42"
           Id="Package\LLENAR DLCCR\OLE DB Source"
@@ -15786,7 +15789,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15808,7 +15813,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -15839,7 +15846,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLCEC">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="177,42"
           Id="Package\LLENAR DLCEC\OLE DB Destination"
@@ -15871,7 +15878,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15893,7 +15902,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -15924,7 +15935,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLCND">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="157,42"
           Id="Package\LLENAR DLCND\OLE DB Source"
@@ -15952,7 +15963,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -15983,7 +15996,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLCNT">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="177,42"
           Id="Package\LLENAR DLCNT\OLE DB Destination"
@@ -16015,7 +16028,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16037,7 +16052,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -16068,7 +16085,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLCON">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="157,42"
           Id="Package\LLENAR DLCON\OLE DB Source"
@@ -16100,7 +16117,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16122,7 +16141,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -16153,7 +16174,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLCRE">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="167,42"
           Id="Package\LLENAR DLCRE\Derived Column 1"
@@ -16209,7 +16230,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16243,7 +16266,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16277,7 +16302,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16311,7 +16338,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16345,7 +16374,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -16376,7 +16407,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLEMP">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="177,42"
           Id="Package\LLENAR DLEMP\OLE DB Destination"
@@ -16408,7 +16439,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16430,7 +16463,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -16461,7 +16496,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR DLPMT">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="157,42"
           Id="Package\LLENAR DLPMT\OLE DB Source"
@@ -16505,7 +16540,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16539,7 +16576,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -16570,7 +16609,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\LLENAR PLPDWH">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="177,42"
           Id="Package\LLENAR PLPDWH\OLE DB Destination"
@@ -16602,7 +16641,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16624,7 +16665,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
